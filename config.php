@@ -1,10 +1,10 @@
 <?php
 $config = [
     'database'=>[
-//        'host'=>'localhost',
+//        'host'=>'us-cdbr-east-06.cleardb.net',
 //        'port'=>'3306',
-//        'dbname'=>'sale',
-//        'user'=>'root',
-//        'pwd'=>''
+//        'dbname'=>'heroku_852c771e6d87425',
+//        'user'=>'bec529d4571584',
+//        'pwd'=>'969ebf7b'
         ]
 ];
